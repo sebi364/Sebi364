@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Sebi364
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sebi364/Sebi364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Python C and Linux
+- 🌱 I’m currently learning C
+- 📫 How to reach me: sebastian.siebnen@gmail.com
