@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Sebi364
 - 👀 I’m interested in Python C and Linux
 - 🌱 I’m currently learning C
-- 📫 How to reach me: sebastian.siebnen@gmail.com
+- 📫 How to reach me: sebi#8231
