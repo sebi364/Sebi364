@@ -1,4 +1,4 @@
-<img width="100%" alt="image" src="https://s2.ezgif.com/tmp/ezgif-2f9bd43ccc93be.gif" />
+<img width="100%" alt="image" src="./banner.gif" />
 
 ###### cat << EOF > README.md
 # Hiii, I'm **sebi364** :3  
