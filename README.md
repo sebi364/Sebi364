@@ -1,3 +1,6 @@
+<img width="100%" alt="image" src="https://s2.ezgif.com/tmp/ezgif-2f9bd43ccc93be.gif" />
+
+###### cat << EOF > README.md
 # Hiii, I'm **sebi364** :3  
 I'm a jack of all trades and a master of none!
 
@@ -41,3 +44,4 @@ Hacking with [**/mnt/ain**](https://ctftime.org/team/152367/) since 2024
 I have some experience with the following, but I'm not an expert yet:
 
 - **Kubernetes (k3s)**
+###### EOF
